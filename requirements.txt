@@ -9,7 +9,6 @@ faker
 fqdn
 html5lib
 isoduration
-jsonpointer
 keepalive
 matplotlib
 munkres
